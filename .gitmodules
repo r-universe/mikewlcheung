@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "metaSEM"]
-	path = metaSEM
-	url = https://github.com/mikewlcheung/metasem
-	shallow = true
-	registered = true
 [submodule "symSEM"]
 	path = symSEM
 	url = https://github.com/mikewlcheung/symsem

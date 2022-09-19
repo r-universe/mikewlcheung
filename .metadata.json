@@ -1,9 +1,5 @@
 [
   {
-    "package": "metaSEM",
-    "oncran": true
-  },
-  {
     "package": "symSEM",
     "oncran": true
   }
