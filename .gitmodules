@@ -5,6 +5,9 @@
 [submodule "metaSEM"]
 	path = metaSEM
 	url = https://github.com/mikewlcheung/metasem
+[submodule "mulSEM"]
+	path = mulSEM
+	url = https://github.com/mikewlcheung/mulsem
 [submodule "symSEM"]
 	path = symSEM
 	url = https://github.com/mikewlcheung/symsem
